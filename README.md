@@ -28,4 +28,3 @@ This template was revised from [國科會研究計畫內容CM03](https://www.ove
 ## License
 
 Creative Commons CC BY 4.0
-
